@@ -1,2 +1,2 @@
-# sp-microservice-hotel-management-configuration
+# sb-microservice-hotel-management-configuration
 Configuration of Hotel Management.
